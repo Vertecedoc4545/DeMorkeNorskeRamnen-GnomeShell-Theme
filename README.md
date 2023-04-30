@@ -14,6 +14,7 @@ So if you enjoy the good all consistent dark themes Then this theme is for you,
 You only need to clone the repo or download the zip file with the code, extract it and copy the folders inside Gnome-Shell-Theme to either `~/.themes` or `~/.local/share/themes`
 after that install the [user themes extension](https://extensions.gnome.org/extension/19/user-themes/) and `gnome-tweaks`, from there you can select the shell theme.
 
+finally the wallpaper is in the repo root folder undr Wallpaper
 ### If you want the folder an app icons
 
 i use the yaru-sage-dark theme-for-legacy-apps and icon-set which you can find pretty easly in the internet, if not install app-themes to `~/.themes` or `~/-local/share/themes`
