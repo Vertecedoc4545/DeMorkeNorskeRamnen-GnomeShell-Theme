@@ -1,4 +1,4 @@
-# De Mærke Norske Ramnen Shell Theme
+# De Mørke Norske Ramnen Shell Theme
 
 This theme is inspired by u/Adventurous_Body2019 bar, and the songs made by wardruna and the early norwegian beliefs about the albine animals whom they belived had the answers and were wisdom bringers.
 
